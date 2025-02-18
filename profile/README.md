@@ -14,7 +14,9 @@
 ## 이번 주 알고리즘 문제
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold V|7569|[토마토](https://www.acmicpc.net/problem/7569)|알고감자|
+|BOJ|Gold V|7569|[토마토](https://www.acmicpc.net/problem/7569)|이현석|
+
+---
 
 ## 진행 방식 💡
 
