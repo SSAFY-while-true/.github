@@ -11,13 +11,15 @@
 - SSAFY 수업 외에도 **꾸준히 학습**하는 환경을 만들고, 스터디원 간 상호협력을 통해 **문제 해결력을 극대화**합니다.
 
 ---
+
 ## 이번 주 알고리즘 문제 🤓
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver II|21736|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|이현석|
+|BOJ|Silver II|2644|[촌수계산](https://www.acmicpc.net/problem/2644)|김서현|
 |BOJ|Silver I|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|신범수|
 |BOJ|Silver I|3621|[족보](https://www.acmicpc.net/problem/21736)|홍훈|
-|BOJ|Silver II|2644|[촌수계산](https://www.acmicpc.net/problem/2644)|김서현|
+
 ---
 
 ## 진행 방식 💡
