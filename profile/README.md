@@ -21,6 +21,11 @@
 |BOJ|Silver I|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|신범수|
 |BOJ|Silver I|14218|[그래프 탐색 2](https://www.acmicpc.net/problem/14218)|이현석|
 
+## 다음 주 알고리즘 문제 🎯
+|출처|난이도|문제번호|문제명|추천인|
+|:---|:---|:---|:---|:---|
+|BOJ|Gold V|15486|[퇴사 2](https://www.acmicpc.net/problem/15486)|신범수|
+
 ---
 
 ## 진행 방식 💡
