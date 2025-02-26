@@ -15,19 +15,10 @@
 ## 이번 주 알고리즘 문제 🤓
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
-|BOJ|Silver II|21736|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|이현석|
-|BOJ|Silver II|2644|[촌수계산](https://www.acmicpc.net/problem/2644)|김서현|
-|BOJ|Silver I|3621|[족보](https://www.acmicpc.net/problem/3621)|홍훈|
-|BOJ|Silver I|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|신범수|
-|BOJ|Silver I|14218|[그래프 탐색 2](https://www.acmicpc.net/problem/14218)|이현석|
-
-## 다음 주 알고리즘 문제 🎯
-|출처|난이도|문제번호|문제명|추천인|
-|:---|:---|:---|:---|:---|
+|BOJ|Silver II|30804|[과일 탕후루](https://www.acmicpc.net/problem/30804)|이현석|
+|BOJ|Silver I|1309|[동물원](https://www.acmicpc.net/problem/1309)|김서현|
+|BOJ|Silver I|1325|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|홍훈|
 |BOJ|Gold V|15486|[퇴사 2](https://www.acmicpc.net/problem/15486)|신범수|
-|BOJ|Silver I| 1309|[동물원](https://www.acmicpc.net/problem/1309)|김서현|
-|BOJ|Silver I| 1325|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|홍훈|
-
 
 ---
 
