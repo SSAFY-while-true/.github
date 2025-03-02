@@ -21,6 +21,7 @@
 |BOJ|Gold V|15486|[퇴사 2](https://www.acmicpc.net/problem/15486)|신범수|
 
 ## 다음 주 알고리즘 문제 ✏️
+|출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver I|11403|[경로 찾기](https://www.acmicpc.net/problem/11403)|이현석|
 
