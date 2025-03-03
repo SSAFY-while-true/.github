@@ -90,11 +90,10 @@ ppower-dev
 ---
 
 ## 참여 인원 🙋
-- **김서현**: se0hyun
-- **신범수**: MYSBS
-- **이승원**: seungwon986
-- **이현석**: ppower-dev (스터디 조장)
-- **홍훈**: Hun-Hong
+- **김서현**: [se0hyun](https://github.com/se0hyun)
+- **신범수**: [MYSBS](https://github.com/MYSBS)
+- **이현석**: [ppower-dev](https://github.com/ppower-dev) (스터디 조장)
+- **홍훈**: [Hun-Hong](https://github.com/Hun-Hong)
 
 ---
 
