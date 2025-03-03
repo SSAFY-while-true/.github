@@ -25,6 +25,7 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Silver I|11403|[경로 찾기](https://www.acmicpc.net/problem/11403)|이현석|
 |BOJ|Silver I|15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|신범수|
+|BOJ|Gold V|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|홍훈|
 
 ---
 
