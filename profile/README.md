@@ -25,7 +25,7 @@
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
 |BOJ|Gold V|2467|[용액](https://www.acmicpc.net/problem/2467)|신범수|
-
+|Programmers|Level 2|389479|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|김서현|
 ---
 
 ## 진행 방식 💡
