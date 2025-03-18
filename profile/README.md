@@ -17,6 +17,7 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Gold V|10026|[적록색약](https://www.acmicpc.net/problem/10026)|이현석|
 |BOJ|Gold V|1074|[Z](https://www.acmicpc.net/problem/1074)|신범수|
+|BOJ|Gold V|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|
 
 ## 이번 주 DP 문제 🙈
 |출처|난이도|문제번호|문제명|
