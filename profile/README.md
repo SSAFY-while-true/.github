@@ -18,6 +18,7 @@
 |BOJ|Gold V|16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|이현석|
 |BOJ|Gold IV|20040|[사이클 게임](https://www.acmicpc.net/problem/20040)|신범수|
 |Programmers|Lv3|43238|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|김서현|
+|Programmers|Lv3|92343|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|홍훈|
 
 
 
