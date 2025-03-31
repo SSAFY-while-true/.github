@@ -26,7 +26,7 @@
 |출처|난이도|문제번호|문제명|
 |:---|:---|:---|:---|
 |BOJ|Silver V|9655|[돌 게임](https://www.acmicpc.net/problem/9655)|
-|BOJ|Silver V|14916|[거스름돈](https://www.acmicpc.net/problem/14926)|
+|BOJ|Silver V|14916|[거스름돈](https://www.acmicpc.net/problem/14916)|
 |BOJ|Silver V|19947|[투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|
 |BOJ|Silver III|17626|[Four Squares](https://www.acmicpc.net/problem/17626)|
 
