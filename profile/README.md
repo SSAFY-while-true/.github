@@ -15,6 +15,13 @@
 ## 다음 주 알고리즘 문제 🤓
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
+|BOJ|Gold IV|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|신범수|
+
+
+
+## 이번 주 알고리즘 문제 🤓
+|출처|난이도|문제번호|문제명|추천인|
+|:---|:---|:---|:---|:---|
 |BOJ|Gold V|16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|이현석|
 |BOJ|Gold IV|20040|[사이클 게임](https://www.acmicpc.net/problem/20040)|신범수|
 |Programmers|Lv3|43238|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|김서현|
