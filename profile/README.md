@@ -12,31 +12,20 @@
 
 ---
 
-## 다음 주 알고리즘 문제 🤓
-|출처|난이도|문제번호|문제명|추천인|
-|:---|:---|:---|:---|:---|
-|BOJ|Gold IV|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|신범수|
-|BOJ|Gold V|7576|[토마토](https://www.acmicpc.net/problem/7576)|홍훈|
-
-
-
 ## 이번 주 알고리즘 문제 🤓
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold V|16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|이현석|
-|BOJ|Gold IV|20040|[사이클 게임](https://www.acmicpc.net/problem/20040)|신범수|
-|Programmers|Lv3|43238|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|김서현|
-|Programmers|Lv3|92343|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|홍훈|
-
-
+|BOJ|Gold V|7576|[토마토](https://www.acmicpc.net/problem/7576)|홍훈|
+|BOJ|Gold IV|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|신범수|
+|BOJ|Gold IV|9019|[DSLR](https://www.acmicpc.net/problem/9019)|이현석|
 
 ## 이번 주 DP 문제 🙈
 |출처|난이도|문제번호|문제명|
 |:---|:---|:---|:---|
-|BOJ|Silver V|9655|[돌 게임](https://www.acmicpc.net/problem/9655)|
-|BOJ|Silver V|14916|[거스름돈](https://www.acmicpc.net/problem/14916)|
-|BOJ|Silver V|19947|[투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|
-|BOJ|Silver III|17626|[Four Squares](https://www.acmicpc.net/problem/17626)|
+|BOJ|Silver IV|2670|[연속부분최대곱](https://www.acmicpc.net/problem/2670)|
+|BOJ|Silver V|13699|[점화식](https://www.acmicpc.net/problem/13699)|
+|BOJ|Silver V|14606|[피자 (Small)](https://www.acmicpc.net/problem/14606)|
+|BOJ|Silver II|1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|
 
 ---
 
