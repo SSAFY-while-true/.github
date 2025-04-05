@@ -18,6 +18,7 @@
 |BOJ|Gold V|7576|[토마토](https://www.acmicpc.net/problem/7576)|홍훈|
 |BOJ|Gold IV|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|신범수|
 |BOJ|Gold IV|9019|[DSLR](https://www.acmicpc.net/problem/9019)|이현석|
+|BOJ|Gold V|15686|[치킨배달](https://www.acmicpc.net/problem/15686)|김서현|
 
 ## 이번 주 DP 문제 🙈
 |출처|난이도|문제번호|문제명|
