@@ -16,6 +16,7 @@
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
 |BOJ|Gold IV|7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|이현석|
+|BOJ|Gold III|2812|[크게 만들기](https://www.acmicpc.net/problem/2812)|신범수|
 
 
 ## 이번 주 DP 문제 🙈
