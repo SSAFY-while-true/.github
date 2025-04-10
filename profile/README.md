@@ -17,7 +17,10 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Gold IV|7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|이현석|
 |BOJ|Gold III|2812|[크게 만들기](https://www.acmicpc.net/problem/2812)|신범수|
+|BOJ|Gold III|2533|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|홍훈|
 |Programmers|Lv.2|150136|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|김서현|
+
+
 
 
 ## 이번 주 DP 문제 🙈
