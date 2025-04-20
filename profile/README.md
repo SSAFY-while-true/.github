@@ -17,6 +17,7 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Silver I|1629|[곱셈](https://www.acmicpc.net/problem/1629)|이현석|
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)|신범수|
+|Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)|김서현|
 
 ## 이번 주 DP 문제 🙈
 |출처|난이도|문제번호|문제명|
