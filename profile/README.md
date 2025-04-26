@@ -15,10 +15,7 @@
 ## 이번 주 알고리즘 문제 🤓
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
-|BOJ|Silver I|1629|[곱셈](https://www.acmicpc.net/problem/1629)|이현석|
-|BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)|신범수|
-|BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)|홍훈|
-|Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)|김서현|
+|BOJ|Gold V|11729|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|신범수|
 
 ## 이번 주 DP 문제 🙈
 |출처|난이도|문제번호|문제명|
