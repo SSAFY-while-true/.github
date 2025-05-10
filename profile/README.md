@@ -20,14 +20,10 @@
 |Programmers|Lv 2|388353|[지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)|김서현|
 |BOJ|Silver I|1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|이현석|
 
-## 이번 주 DP 문제 🙈
+## 이번 주 재귀 문제 🙈
 |출처|난이도|문제번호|문제명|
 |:---|:---|:---|:---|
-|BOJ|Silver III|17175|[피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175)|
-|BOJ|Silver III|17212|[달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212)|
-|BOJ|Silver II|18353|[병사 배치하기](https://www.acmicpc.net/problem/18353)|
-|BOJ|Silver III|2407|[조합](https://www.acmicpc.net/problem/2407)|
-
+|BOJ|Silver II|1780|[종이의 개수](https://www.acmicpc.net/problem/1780)|
 ---
 
 ## 진행 방식 💡
