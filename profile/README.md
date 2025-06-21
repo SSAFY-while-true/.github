@@ -17,6 +17,7 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|홍훈|
 |BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|신범수|
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|이현석|
 
 
 ## 이번 주 재귀 문제 🙈
