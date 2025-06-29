@@ -16,6 +16,7 @@
 |출처|난이도|문제번호|문제명|추천인|
 |:---|:---|:---|:---|:---|
 |BOJ|Gold III|1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|홍훈|
+|BOJ|Gold III|1644|[소수의 연속합](https://www.acmicpc.net/problem/1644)|김서현|
 
 ## 진행 방식 💡
 
